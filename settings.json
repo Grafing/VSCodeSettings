@@ -19,5 +19,6 @@
     "prettier.printWidth": 120,
     "editor.minimap.maxColumn": 130,
     "prettier.quoteProps": "preserve",
-    "prettier.trailingComma": "none"
+    "prettier.trailingComma": "none",
+    "prettier.useEditorConfig": false
 }
